@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-$config['base_url'] = 'https://mtracker-dot-eloquent-glow-354902.et.r.appspot.com';
+$config['base_url'] = 'https://mtracker-dot-submission-mgce-jkpurmanto.as.r.appspot.com';
 
 /*
 |--------------------------------------------------------------------------
